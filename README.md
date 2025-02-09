@@ -1,6 +1,6 @@
 # crs-system
 
-<br>]
+<br>
 
 1. open XAMPP and start the Apache and MySQL module 
 2. run this on terminal :
