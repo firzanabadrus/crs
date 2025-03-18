@@ -1,4 +1,4 @@
-# crs-system
+# Course Registration System
 
 <br>
 
